@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "pp.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
