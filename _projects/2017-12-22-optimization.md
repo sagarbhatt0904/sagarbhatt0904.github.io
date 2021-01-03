@@ -12,7 +12,7 @@ was optimized using the [fmincon](https://www.mathworks.com/help/optim/ug/fminco
 
 |<img src='/images/optimization/fricHeat.png'> | <img src='/images/optimization/finalTemperature.png' width='1000'> |
 |:---:|:---:|:---:|
-| Heat caused by friction (in &deg;C) | Optimized initial temperature field (in &deg;C) |
+| Heat caused by extrusion process (in &deg;C) | Optimized initial temperature field (in &deg;C) |
 
 |<img src='/images/optimization/nonuniform.png'> | <img src='/images/optimization/uniform.png'> |
 |:---:|:---:|:---:|
