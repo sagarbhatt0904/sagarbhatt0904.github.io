@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /CV/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 <iframe src="/files/resumeBhatt.pdf" width="70%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my resume [here](/files/resumeBhatt.pdf).
+You can download a PDF copy of my CV [here](/files/resumeBhatt.pdf).
