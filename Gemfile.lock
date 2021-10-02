@@ -244,7 +244,6 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rbtree (0.4.4)
     rexml (3.2.5)
     rouge (3.26.0)
     ruby-enum (0.9.0)
@@ -260,12 +259,8 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
-    set (1.0.1)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    sorted_set (1.0.3)
-      rbtree
-      set (~> 1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -293,7 +288,6 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
-  sorted_set (~> 1.0)
   tzinfo
   tzinfo-data
   wdm (~> 0.1.0)
