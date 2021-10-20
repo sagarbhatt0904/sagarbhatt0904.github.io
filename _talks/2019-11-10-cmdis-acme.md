@@ -6,5 +6,5 @@ type: "Talk"
 venue: "CMDIS Annual Research Symposium 2019,  Rensselaer Polytechnic Institute"
 date: 2019-12-06
 location: "Troy, New York"
-author: "*M. Allahua, A. Baskaran, <b>S. Bhatt</b>, G. Kane, A. Kekre, R. Hull, D. Lewis, A. Maniatty, and J. Wen"
+author: "M. Allahua, A. Baskaran, <b>S. Bhatt</b>, G. Kane, A. Kekre, R. Hull, D. Lewis, A. Maniatty, and J. Wen"
 ---

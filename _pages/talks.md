@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> * Equal Authorship</p>
+<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> </p>
