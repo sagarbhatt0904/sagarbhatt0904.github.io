@@ -19,5 +19,7 @@ was optimized using the [fmincon](https://www.mathworks.com/help/optim/ug/fminco
 | Non-uniform grain growth caused by extrusion process | Uniform grain growth under optimized initial temperature field |
 
 
-<iframe src="/files/Report_optimization.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<br>
+See [this](/files/Report_optimization.pdf) report for more details. 
+<!-- <iframe src="/files/Report_optimization.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
