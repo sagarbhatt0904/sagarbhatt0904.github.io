@@ -20,6 +20,6 @@ was optimized using the [fmincon](https://www.mathworks.com/help/optim/ug/fminco
 
 
 <br>
-See [this](/files/Report_optimization.pdf) report for more details. 
+[<span style="font-size: 3em; color: Tomato;"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></span>](/files/Report_optimization.pdf)
 <!-- <iframe src="/files/Report_optimization.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
