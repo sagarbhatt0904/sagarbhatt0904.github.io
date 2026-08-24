@@ -9,6 +9,8 @@ redirect_from:
 ---
 # About Me
 
-I am a PhD student in [Mechanical Engineering](https://mane.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I am working under the supervision of Prof. [Antoinette Maniatty](https://homepages.rpi.edu/~maniaa/) on computational modeling of microstructure evolution of polycrystalline material under thermo-mechanical loading using finite element crystal plasticity and Monte Carlo methods to simulate deformation and grain growth, respectively.
+I am a Mechanical Engineer in the Thermal and Structural Materials group of the Applied Materials Division at [Argonne National Laboratory](https://www.anl.gov/), where I develop physics-based models to predict how materials behave in harsh environments. Much of my current work focuses on advanced manufacturing processes. Before moving into this role, I was a Postdoctoral Appointee in the same group, where I modeled creep deformation in diffusion-bonded and laser powder bed fusion microstructures.
 
-I received my MS from [University at Buffalo](http://www.buffalo.edu/), The State University of New York and B.Tech from [Vellore Institute of Technology](https://vit.ac.in/), both in Mechanical Engineering as well. My field of interests include High Performance Computing, Finite Element Methods, Computational Solid Mechanics, and crystal plasticity.
+I received my PhD in [Mechanical Engineering](https://mane.rpi.edu/) from [Rensselaer Polytechnic Institute](https://www.rpi.edu/), where I worked under the supervision of Prof. [Antoinette Maniatty](https://homepages.rpi.edu/~maniaa/) on computational modeling of microstructure evolution of Ti-6Al-4V under thermo-mechanical loading. Before RPI, I earned an MS in Mechanical Engineering from the [University at Buffalo](http://www.buffalo.edu/), SUNY, and a BTech in Mechanical Engineering from [Vellore Institute of Technology](https://vit.ac.in/).
+
+My fields of interest include Computational Solid Mechanics, Crystal Plasticity, Finite Element Methods, and High Performance Computing. Outside of work, I enjoy running and painting.

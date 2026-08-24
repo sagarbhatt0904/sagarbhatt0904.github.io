@@ -1,9 +1,19 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+View full CV in PDF form [here](/files/cv_Bhatt.pdf).
 
-<iframe src="/files/CV_Bhatt.pdf" width="70%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](/files/CV_Bhatt.pdf).
+Education
+======
+* Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2022
+* M.S. in Mechanical Engineering, University at Buffalo, State University of New York, 2017
+* B.Tech in Mechanical Engineering, Vellore Institute of Technology, 2014
+
+Experience
+======
+* 2025–Present: Mechanical Engineer, Argonne National Laboratory
+* 2023–2025: Postdoctoral Appointee, Argonne National Laboratory
+* 2017–2022: Research and Teaching Assistant, Rensselaer Polytechnic Institute
+* 2016: Grader and Tutor, University at Buffalo, State University of New York
