@@ -6,3 +6,5 @@ vendor/
 .DS_Store
 art/generateThumbs.sh
 CLAUDE.md
+overleaf_cv/
+PLAN-publications-bib.md

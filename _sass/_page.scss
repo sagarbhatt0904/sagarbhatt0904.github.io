@@ -399,3 +399,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Bibliography-style list (publications / talks)
+   ========================================================================== */
+
+.bib-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 1em;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+    line-height: 1.6;
+  }
+}
