@@ -149,6 +149,11 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - markdown_generator
+  - talkmap.py
+  - talkmap.ipynb
+  - CLAUDE.md
+  - CONTRIBUTING.md
 keep_files:
   - .git
   - .svn
