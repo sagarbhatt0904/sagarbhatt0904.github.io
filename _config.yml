@@ -154,7 +154,7 @@ exclude:
   - overleaf_cv
   - scripts
   - bin
-  - PLAN-publications-bib.md
+
 keep_files:
   - .git
   - .svn
