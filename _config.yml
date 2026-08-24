@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Sagar Bhatt"
   avatar           : "sagar_headshot.JPG"
-  bio              : "PhD Student, Mechanical Engineering"
+  bio              : "Mechanical Engineer, Argonne National Laboratory"
   location         : "Lemont, IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6CVR7v4AAAAJ&hl=en"
-  email            : "bhatts8@rpi.edu"
+  email            : "sbhatt@anl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
