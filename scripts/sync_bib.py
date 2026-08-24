@@ -127,7 +127,7 @@ def build_citation(entry):
     if kind == "article":
         journal = strip_latex(entry.get("journal", ""))
         date = format_date_paren(entry)
-        citation = f'{authors}. "{title}". In: <i>{journal}</i> ({date})'
+        citation = f'{authors}. "{title}". <i>{journal}</i> ({date})'
         if entry.get("pages"):
             citation += f", {format_pages(entry['pages'])}"
         citation += "."
@@ -222,7 +222,8 @@ def main():
         if "publications" in keywords:
             publications.append(entry)
         elif "conference" in keywords:
-            talks.append(entry)
+            if "selectedTalk" in keywords:
+                talks.append(entry)
         else:
             print(f"warning: entry '{entry.get('ID')}' has no publications/conference "
                   "keyword; skipped", file=sys.stderr)
