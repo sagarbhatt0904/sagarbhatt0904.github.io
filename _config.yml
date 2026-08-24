@@ -87,8 +87,10 @@ author:
   bio              : "Mechanical Engineer, Argonne National Laboratory"
   location         : "Lemont, IL"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6CVR7v4AAAAJ&hl=en"
+  argonne          : "https://www.anl.gov/profile/sagar-bhatt"
+  argonne_logo     : # filename in /images/, e.g. "argonne-logo.png" -- falls back to a generic icon if blank
   email            : "sbhatt@anl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

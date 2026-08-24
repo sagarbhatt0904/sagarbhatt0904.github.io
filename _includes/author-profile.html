@@ -31,6 +31,15 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      {% if author.argonne %}
+        <li><a href="{{ author.argonne }}">
+          {% if author.argonne_logo %}
+            <img src="{{ author.argonne_logo | prepend: "/images/" | prepend: base_path }}" alt="" class="author__icon-img" />
+          {% else %}
+            <i class="fab fa-fw fa-google-drive" aria-hidden="true"></i>
+          {% endif %}
+          ANL</a></li>
+      {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
